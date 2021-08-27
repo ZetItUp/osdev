@@ -1,2 +1,0 @@
-# osdev
-Hobby OS
